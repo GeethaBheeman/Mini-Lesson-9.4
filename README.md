@@ -10,14 +10,32 @@
   
 <a class="anchor" id="about_the_project"></a>
 >## About the Project
-Include a summary of the project here.
+This project demonstrates fundamental data engineering and data analysis concepts covered in the course. 
+
+The objective of the project is to:
+
+- Extract and query structured data using MySQL
+- Perform data analysis using Python
+- Visualize insights using Matplotlib
+- Work with Jupyter Notebook for interactive development
+- Manage version control using Git and GitHub
+
+The project highlights how data engineers combine databases, programming, and visualization tools to transform raw data into meaningful insights.
+
+---
 
 <a class="anchor" id="tools"></a>
 >## Tools
-Include a list of the tools used in the project:
-1. Jupyter Notebook
-2. MySQL
-3. Matplotlib
+The following tools and technologies were used:
+
+1. **Python 3.x**
+2. **Jupyter Notebook** – Interactive development and analysis
+3. **MySQL** – Database management and SQL queries
+4. **Matplotlib** – Data visualization
+5. **Git & GitHub** – Version control and repository management
+6. **VS Code** – Development environment
+
+---
    
 <a class="anchor" id="installation_instructions"></a>
 >## Installation Instructions
