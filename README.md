@@ -78,14 +78,15 @@ git remote add origin git@github.com:<your-username>/Mini-Lesson-9.4.git
 git push -u origin main
 ```
 After pushing, refresh your GitHub repository to see the rendered README file.
+
 ---
 
 >## Contact Information
 Geetha Bheeman
 
-LinkedIn: https://www.linkedin.com/in/geetha-bheeman
+[LinkedIn]: https://www.linkedin.com/in/geetha-bheeman
 
-GitHub: https://github.com/GeethaBheeman
+[GitHub]: https://github.com/GeethaBheeman
 
 Feel free to connect for collaboration or discussion.
 
