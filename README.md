@@ -50,38 +50,38 @@ To recreate this project locally, follow these steps:
 
 ### Step 1: Create a Project Folder
 
-Create a folder named:
+ Create a folder named:
 
-Mini-Lesson 9.4
+ Mini-Lesson 9.4
 
 ### Step 2: Open the Folder in VS Code
 
-Drag and drop the folder into VS Code.
+ Drag and drop the folder into VS Code.
 
 ### Step 3: Create README.md File
 
-Create a new file named:
-README.md
+ Create a new file named:
+ README.md
 
 ### Step 4: Install Required Extension
 
-Install the **Markdown All in One** extension in VS Code to preview Markdown files.
+ Install the **Markdown All in One** extension in VS Code to preview Markdown files.
 
 ### Step 5: Initialize Git and Push to GitHub
 
-Open Git Bash or Terminal inside the project folder and run:
+ Open Git Bash or Terminal inside the project folder and run:
 
-```bash
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:<your-username>/Mini-Lesson-9.4.git
-git push -u origin main
-```
-After pushing, refresh your GitHub repository to see the rendered README file.
+ ```bash
+ git init
+ git add README.md
+ git commit -m "first commit"
+ git branch -M main
+ git remote add origin git@github.com:<your-username>/Mini-Lesson-9.4.git
+  git push -u origin main
+ ```
+ After pushing, refresh your GitHub repository to see the rendered README file.
 
----
+ ---
 
 >## Contact Information
 Geetha Bheeman
