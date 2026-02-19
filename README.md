@@ -61,13 +61,13 @@ jupyter notebook
 ```
 5. Open the Notebook File
 Run all cells to reproduce the analysis and visualizations.
-
+```bash
 Project Structure
 │── data/
 │── notebooks/
 │── images/
 │── README.md
-
+```
 data/ → Contains dataset files
 
 notebooks/ → Jupyter notebooks with analysis
