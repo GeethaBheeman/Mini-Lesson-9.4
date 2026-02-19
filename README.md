@@ -9,7 +9,9 @@
 * [Tools](#tools)
 * [Installation Instructions](#installation-instructions)
 * [Contact Information](#contact-information)
-  
+
+---
+
 <a class="anchor" id="about_the_project"></a>
 >## About the Project
 
@@ -84,7 +86,7 @@ After pushing, refresh your GitHub repository to see the rendered README file.
 >## Contact Information
 Geetha Bheeman
 
-[LinkedIn]: https://www.linkedin.com/in/geetha-bheeman
+[LinkedIn:] https://www.linkedin.com/in/geetha-bheeman
 
 [GitHub]: https://github.com/GeethaBheeman
 
