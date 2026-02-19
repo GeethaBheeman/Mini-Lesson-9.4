@@ -2,6 +2,8 @@
 
 ![Github Logo](GitHub_Lockup_White_Clearspace.png "Githublogo-markdown")
 
+---
+
 >## Table of Contents Example
 * [About the Project](#about-the-project)
 * [Tools](#tools)
@@ -10,72 +12,72 @@
   
 <a class="anchor" id="about_the_project"></a>
 >## About the Project
-This project demonstrates fundamental data engineering and data analysis concepts covered in the course. 
 
-The objective of the project is to:
+This project demonstrates how to create and modify a professional README file using Visual Studio Code and Markdown.
 
-- Extract and query structured data using MySQL
-- Perform data analysis using Python
-- Visualize insights using Matplotlib
-- Work with Jupyter Notebook for interactive development
-- Manage version control using Git and GitHub
+The objective of this mini-lesson is to:
 
-The project highlights how data engineers combine databases, programming, and visualization tools to transform raw data into meaningful insights.
+- Practice writing Markdown syntax
+- Use HTML inside Markdown files
+- Create internal anchor links
+- Build a structured README file
+- Deploy the README file to GitHub using Git commands
+- Improve portfolio visibility in the industry
+
+This project helps strengthen documentation skills, which are essential for data engineers and developers.
 
 ---
 
 <a class="anchor" id="tools"></a>
 >## Tools
-The following tools and technologies were used:
 
-1. **Python 3.x**
-2. **Jupyter Notebook** – Interactive development and analysis
-3. **MySQL** – Database management and SQL queries
-4. **Matplotlib** – Data visualization
-5. **Git & GitHub** – Version control and repository management
-6. **VS Code** – Development environment
+The following tools were used to complete this project:
+
+1. **Visual Studio Code**
+2. **Markdown All in One Extension**
+3. **Git**
+4. **GitHub**
+5. **Git Bash / Terminal**
 
 ---
    
 <a class="anchor" id="installation_instructions"></a>
 >## Installation Instructions
-Follow these steps to run the project locally:
 
-### 1. Clone the Repository
+To recreate this project locally, follow these steps:
+
+### Step 1: Create a Project Folder
+
+Create a folder named:
+
+Mini-Lesson 9.4
+
+### Step 2: Open the Folder in VS Code
+
+Drag and drop the folder into VS Code.
+
+### Step 3: Create README.md File
+
+Create a new file named:
+README.md
+
+### Step 4: Install Required Extension
+
+Install the **Markdown All in One** extension in VS Code to preview Markdown files.
+
+### Step 5: Initialize Git and Push to GitHub
+
+Open Git Bash or Terminal inside the project folder and run:
 
 ```bash
-git clone https://github.com/GeethaBheeman/REPOSITORY_NAME.git
-
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:<your-username>/Mini-Lesson-9.4.git
+git push -u origin main
 ```
-2. Navigate to the Project Directory
-```bash
-cd REPOSITORY_NAME
-```
-3. Install Required Dependencies
-```bash
-pip install matplotlib mysql-connector-python jupyter
-```
-4. Start Jupyter Notebook
-```bash
-jupyter notebook
-```
-5. Open the Notebook File
-Run all cells to reproduce the analysis and visualizations.
-```bash
-Project Structure
-│── data/
-│── notebooks/
-│── images/
-│── README.md
-```
-data/ → Contains dataset files
-
-notebooks/ → Jupyter notebooks with analysis
-
-images/ → Visualizations and assets
-
-README.md → Project documentation
-
+After pushing, refresh your GitHub repository to see the rendered README file.
 ---
 
 >## Contact Information
