@@ -39,9 +39,49 @@ The following tools and technologies were used:
    
 <a class="anchor" id="installation_instructions"></a>
 >## Installation Instructions
-Include the installation instruction here
+Follow these steps to run the project locally:
 
-<a class="anchor" id="contact"></a>
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/GeethaBheeman/REPOSITORY_NAME.git
+
+```
+2. Navigate to the Project Directory
+```bash
+cd REPOSITORY_NAME
+```
+3. Install Required Dependencies
+```bash
+pip install matplotlib mysql-connector-python jupyter
+```
+4. Start Jupyter Notebook
+```bash
+jupyter notebook
+```
+5. Open the Notebook File
+Run all cells to reproduce the analysis and visualizations.
+
+Project Structure
+│── data/
+│── notebooks/
+│── images/
+│── README.md
+
+data/ → Contains dataset files
+
+notebooks/ → Jupyter notebooks with analysis
+
+images/ → Visualizations and assets
+
+README.md → Project documentation
+---
 >## Contact Information
-[Geetha Bheeman](https://www.linkedin.com/in/geetha-bheeman)
+Geetha Bheeman
+
+LinkedIn: https://www.linkedin.com/in/geetha-bheeman
+
+GitHub: https://github.com/GeethaBheeman
+
+Feel free to connect for collaboration or discussion.
 
