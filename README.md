@@ -75,7 +75,9 @@ notebooks/ → Jupyter notebooks with analysis
 images/ → Visualizations and assets
 
 README.md → Project documentation
+
 ---
+
 >## Contact Information
 Geetha Bheeman
 
@@ -85,3 +87,4 @@ GitHub: https://github.com/GeethaBheeman
 
 Feel free to connect for collaboration or discussion.
 
+---
